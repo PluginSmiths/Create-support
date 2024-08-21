@@ -1,0 +1,22 @@
+{
+  "id": "createsupport",
+  "weight": 30,
+  "javaplugin": "net.ovonsame.cas.Launcher",
+  "minversion": 0,
+  "supportedversions": [
+    202400115713,
+    2024001,
+    2023004,
+    2024002,
+    202400115821,
+    202300499999,
+    202300400000
+  ],
+  "info": {
+    "name": "Create mod support",
+    "version": "1.0",
+    "description": "This plugin is a piece of the CAS plugin - support for the Create mod",
+    "author": "OVONSAME",
+    "credits": "Made by OVONSAME and jcm23"
+  }
+}
