@@ -10,8 +10,8 @@ public class ${name}Procedure {
             "z": "event.getPos().z",
             "world": "event.getLevel()",
             "blockstate": "event.getState()",
-            "FirstFluid": "event.getFirstFluid()",
-            "SecondFluid": "event.getSecondFluid()",
+            "FirstFluid": "(FluidState) event.getFirstFluid()",
+            "SecondFluid": "(FluidState) event.getSecondFluid()",
             "dimension": "event.getLevel().dimension()",
             "event": "event"
             }/>

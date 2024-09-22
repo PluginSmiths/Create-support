@@ -11,8 +11,8 @@ public class ${name}Procedure {
             "world": "event.getLevel()",
             "blockstate": "event.getState()",
             "dimension": "event.getLevel().dimension()",
-            "WorldFluid": "event.getWorldFluid()",
-            "PipeFluid": "event.getPipeFluid()",
+            "WorldFluid": "(FluidState) event.getWorldFluid()",
+            "PipeFluid": "(FluidState) event.getPipeFluid()",
             "event": "event"
             }/>
         </#compress></#assign>
