@@ -3,6 +3,9 @@
   "weight": 30,
   "javaplugin": "net.ovonsame.cas.Launcher",
   "minversion": 0,
+  "dependencies": [
+    "fluidmanager"
+  ],
   "supportedversions": [
     202400115713,
     2024001,
