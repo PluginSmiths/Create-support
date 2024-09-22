@@ -22,15 +22,15 @@
     },
     {
       "name": "FirstFluid",
-      "type": "blockstate"
+      "type": "Fluid"
     },
     {
       "name": "SecondFluid",
-      "type": "blockstate"
+      "type": "Fluid"
     },
     {
       "name": "dimension",
-      "type": "blockstate"
+      "type": "dimensiontype"
     }
   ],
   "cancelable": false,

@@ -22,15 +22,15 @@
     },
     {
       "name": "dimension",
-      "type": "blockstate"
+      "type": "dimensiontype"
     },
     {
       "name": "WorldFluid",
-      "type": "blockstate"
+      "type": "Fluid"
     },
     {
       "name": "PipeFluid",
-      "type": "blockstate"
+      "type": "Fluid"
     }
   ],
   "cancelable": false,
